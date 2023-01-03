@@ -32,10 +32,11 @@ Ogni giocatore ha a diposizione 12 Pedine dove e possbile selezionare la pedina 
 ![MuoviPedina](https://user-images.githubusercontent.com/91205851/210286117-4d5df2de-c97b-4549-bfa3-fe8c03f8aa15.gif)
 <br>
 
-***Mangia la Pedina!***
+**Mangia la Pedina!**
+<br>
 <br>
 ![mangiaPedina_1](https://user-images.githubusercontent.com/91205851/210286276-631668a2-ba06-4032-a3d4-24647d696404.gif)
-
+<br>
 
 ## Author
 
