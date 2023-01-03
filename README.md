@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Dama-Italiana 👋</h1>
+<h1 align="center">Dama-Italiana 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
@@ -28,6 +28,7 @@ Compilare il Programma con il proprio compilatore e far partire l'eseguibile
 
 ## Regole
 Ogni giocatore ha a diposizione 12 Pedine dove e possbile selezionare la pedina tramite la loro posizione (0-8)<br>
+<br>
 ![MuoviPedina](https://user-images.githubusercontent.com/91205851/210286117-4d5df2de-c97b-4549-bfa3-fe8c03f8aa15.gif)
 
 
