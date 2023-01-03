@@ -10,6 +10,8 @@
 
 ### 🏠 [Homepage](https://www.github.com/KekkoDev/Dama-Italiana)
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/KekkoDev/Dama-Italiana/Dama-Italiana-main.zip)
+
 ## Prerequisites
 
 - Complitore C/C++
