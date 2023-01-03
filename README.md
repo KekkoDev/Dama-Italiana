@@ -28,6 +28,7 @@ Compilare il Programma con il proprio compilatore e far partire l'eseguibile
 
 ## Regole
 Ogni giocatore ha a diposizione 12 Pedine dove e possbile selezionare la pedina tramite la loro posizione (0-8)<br>
+![MuoviPedina](https://user-images.githubusercontent.com/91205851/210286117-4d5df2de-c97b-4549-bfa3-fe8c03f8aa15.gif)
 
 
 ## Author
