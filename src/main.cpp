@@ -6,7 +6,7 @@
  *  Versione  : 1.0
  *  Data      : 04/01/2023
  *  Descr     :
- * ?
+ * ? Gioco della Dama Italiana
  *================================================================================================**/
 #include <iostream>
 #include "../lib/pedina.h"
