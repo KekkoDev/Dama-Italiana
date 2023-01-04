@@ -31,13 +31,15 @@ Compilare il Programma con il proprio compilatore e far partire l'eseguibile
 ## Regole
 Ogni giocatore ha a diposizione 12 Pedine dove e possbile selezionare la pedina tramite la loro posizione (0-8)<br>
 <br>
-![MuoviPedina](https://user-images.githubusercontent.com/91205851/210286117-4d5df2de-c97b-4549-bfa3-fe8c03f8aa15.gif)
+![muoviPedina](https://user-images.githubusercontent.com/91205851/210637178-77bb0c25-db4c-4e6a-80d2-f539774d2143.gif)
+
 <br>
 
 **Mangia la Pedina!**
 <br>
 <br>
-![mangiaPedina_1](https://user-images.githubusercontent.com/91205851/210286276-631668a2-ba06-4032-a3d4-24647d696404.gif)
+![spostaPedina_1](https://user-images.githubusercontent.com/91205851/210637207-38238c72-d5cb-456b-9e71-91ad979963c4.gif)
+
 <br>
 
 ## Author
